@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "S7WyyZDiy0PWeRRn1qA8n3o4khnTP5hV8YdbMZZPP+X42+rCj+M72UX43fBKudquo/LQD48ROyd8SUOnjsZ7Pg==",
+  "success": true,
+  "projectFilePath": "D:\\Git\\SfptClient\\SfptClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TriNDH\\.nuget\\packages\\ssh.net\\2023.0.0\\ssh.net.2023.0.0.nupkg.sha512",
+    "C:\\Users\\TriNDH\\.nuget\\packages\\sshnet.security.cryptography\\1.3.0\\sshnet.security.cryptography.1.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
